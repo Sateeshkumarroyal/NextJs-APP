@@ -86,7 +86,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 # Wedo
-![Wedo](https://github.com/sateeshkumarroyal/images/raw/main/mobile whydo.png)
+![Wedo](https://github.com/sateeshkumarroyal/images/raw/main/mobilewhydo.png)
 
 
 
