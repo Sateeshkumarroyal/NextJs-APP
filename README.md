@@ -2,17 +2,17 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 #### Job recruiter App builded using Next JS , Scss , React-bootstrap, Mobile Responsiveness , React-Dom
 
-# Screen Shots -Desktop
+### Screen Shots -Desktop
 
-### Header 
+# Header 
 ![Header](https://github.com/Sateeshkumarroyal/Images/raw/main/Header.png)
 
 
-### Jobseeker
+# Jobseeker
 ![Jobseeker](https://github.com/sateeshkumarroyal/images/raw/main/jobseeker.png)
 
 
-### client
+# client
 ![Jobseeker](https://github.com/sateeshkumarroyal/images/raw/main/client.png)
 
 
@@ -47,22 +47,22 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 
+### Screen Shots -Responsive
 
-
-### Header 
+# Header 
 ![Header](https://github.com/Sateeshkumarroyal/Images/raw/main/mobileHeader.png)
 
 
 
-### Header 
+# Header 
 ![Header](https://github.com/Sateeshkumarroyal/Images/raw/main/mobileHeader1.png)
 
 
-### Jobseeker
+# Jobseeker
 ![Jobseeker](https://github.com/sateeshkumarroyal/images/raw/main/mobileJobseeker.png)
 
 
-### client
+# client
 ![Jobseeker](https://github.com/sateeshkumarroyal/images/raw/main/mobileClients.png)
 
 
