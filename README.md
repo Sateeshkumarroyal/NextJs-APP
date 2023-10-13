@@ -7,30 +7,42 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ### Header 
 ![Header](https://github.com/Sateeshkumarroyal/Images/raw/main/Header.png)
 
+
 ### Jobseeker
 ![Jobseeker](https://github.com/sateeshkumarroyal/images/raw/main/jobseeker.png)
+
 
 ### client
 ![Jobseeker](https://github.com/sateeshkumarroyal/images/raw/main/client.png)
 
+
+
 # LatestJobs
 
-![LatestJobs](https://github.com/sateeshkumarroyal/images/raw/main/latest job.png)
+![LatestJobs](https://github.com/sateeshkumarroyal/images/raw/main/LatestJobDesktop.png)
+
+
 
 # Sector
 ![Sector](https://github.com/sateeshkumarroyal/images/raw/main/sector.png)
 
+
+
 # AboutUS
 ![AboutUS](https://github.com/sateeshkumarroyal/images/raw/main/Aboutus.png)
+
 
 # Wedo
 ![Wedo](https://github.com/sateeshkumarroyal/images/raw/main/wedo.png)
 
+
 # Insights
 ![Insights](https://github.com/sateeshkumarroyal/images/raw/main/insights.png)
 
+
 # Footer
 ![Footer](https://github.com/sateeshkumarroyal/images/raw/main/footer.png)
+
 
 
 
@@ -41,36 +53,46 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ![Header](https://github.com/Sateeshkumarroyal/Images/raw/main/mobileHeader.png)
 
 
+
 ### Header 
 ![Header](https://github.com/Sateeshkumarroyal/Images/raw/main/mobileHeader1.png)
+
 
 ### Jobseeker
 ![Jobseeker](https://github.com/sateeshkumarroyal/images/raw/main/mobileJobseeker.png)
 
+
 ### client
 ![Jobseeker](https://github.com/sateeshkumarroyal/images/raw/main/mobileClients.png)
+
 
 # LatestJobs
 
 ![LatestJobs](https://github.com/sateeshkumarroyal/images/raw/main/latestjobs.png)
 
+
 # LatestJobs
 
 ![LatestJobs](https://github.com/sateeshkumarroyal/images/raw/main/latestjobs1.png)
 
+
 # Sector
 ![Sector](https://github.com/sateeshkumarroyal/images/raw/main/mobilesector.png)
 
+
 # AboutUS
 ![AboutUS](https://github.com/sateeshkumarroyal/images/raw/main/mobileaboutus.png)
+
 
 
 # Wedo
 ![Wedo](https://github.com/sateeshkumarroyal/images/raw/main/mobile whydo.png)
 
 
+
 # Footer
 ![Footer](https://github.com/sateeshkumarroyal/images/raw/main/mobilefooter.png)
+
 
 
 # SourceFlow-nextjs-project
