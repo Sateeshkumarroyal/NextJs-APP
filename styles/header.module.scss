@@ -1,0 +1,267 @@
+$color_1: var(--color-gray-100);
+$color_2: var(--color-darkslateblue-100);
+$background-color_1: var(--color-white);
+
+.softwareRecruitmentCo {
+	position: relative;
+}
+
+.logo {
+	border-radius: 10px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: flex-start;
+	padding: var(--padding-3xs) 0;
+}
+
+.mdimenuDownIcon {
+	position: relative;
+	width: 24px;
+	height: 24px;
+	overflow: hidden;
+	flex-shrink: 0;
+}
+
+.forJobseekersParent {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+
+.frameParent {
+	justify-content: center;
+	gap: var(--gap-11xl);
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.logoParent {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	width: 903.5px;
+	justify-content: flex-start;
+	gap: 46px;
+}
+
+.menu {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding: var(--padding-3xs);
+	font-size: var(--font-size-base);
+	color: $color_1;
+}
+
+.frameGroup {
+	justify-content: center;
+	gap: var(--gap-3xs);
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.container {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: flex-start;
+	flex: 1;
+	overflow: hidden;
+}
+
+.frame {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	flex: 1;
+	justify-content: space-between;
+}
+
+// Define a shared button style
+.btnHeader {
+	border-radius: 30px !important;
+	background-color: #FCDF69 !important;
+	color: #451B09 !important;
+	font-size: 16px !important;
+	border: none !important;
+	font-weight: 700 !important;
+	font-family: Helvetica Neue !important;
+  };
+/* Style the custom dropdown toggle */
+.custom-dropdown-toggle {
+	display: inline-block;
+	position: relative;
+  }
+  
+  /* Style the custom dropdown icon (image) */
+  .custom-dropdown-icon {
+	width: 20px; /* Adjust the width and height to fit your image */
+	height: 20px;
+	vertical-align: middle; /* Align the image vertically with text */
+	margin-left: 5px; /* Add spacing between the image and text */
+  }
+  
+  /* Hide the default Bootstrap dropdown arrow */
+  .dropdown-toggle::after {
+	content: none !important;
+  }
+  
+  /* Add this style rule to your CSS or SCSS file */
+.file-input {
+	position: absolute;
+	top: -9999px;
+	left: -9999px;
+  }
+   
+.header {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: flex-start;
+	background-color: $background-color_1;
+	box-shadow: 0 4px 4px rgba(182, 182, 182, 0.25);
+	//   width: 1440px;
+	padding: var(--padding-xl) var(--padding-101xl);
+	box-sizing: border-box;
+	font-size: 20px;
+	color: $color_2;
+
+}
+
+
+@media screen and (max-width: 1200px), (max-width: 992px), (max-width: 768px) , (max-width: 576px) {
+
+		$color_1: var(--color-gray-100);
+$color_2: var(--color-darkslateblue-100);
+$background-color_1: var(--color-white);
+
+.softwareRecruitmentCo {
+	position: relative;
+}
+
+.logo {
+	border-radius: 10px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: flex-start;
+	padding: var(--padding-3xs) 0;
+}
+
+.mdimenuDownIcon {
+	position: relative;
+	width: 24px;
+	height: 24px;
+	overflow: hidden;
+	flex-shrink: 0;
+}
+
+.forJobseekersParent {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+
+.frameParent {
+	justify-content: center;
+	gap: var(--gap-11xl);
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.logoParent {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	width: 903.5px;
+	justify-content: flex-start;
+	gap: 46px;
+}
+
+.menu {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	padding: var(--padding-3xs);
+	font-size: var(--font-size-base);
+	color: $color_1;
+}
+
+.frameGroup {
+	justify-content: center;
+	gap: var(--gap-3xs);
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.container {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: flex-start;
+	flex: 1;
+	overflow: hidden;
+}
+
+.frame {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	flex: 1;
+	justify-content: space-between;
+}
+
+.btnHeader {
+border-radius: 0% !important;
+}
+/* Style the custom dropdown toggle */
+.custom-dropdown-toggle {
+	display: inline-block;
+	position: relative;
+  }
+  
+  /* Style the custom dropdown icon (image) */
+  .custom-dropdown-icon {
+	width: 20px; /* Adjust the width and height to fit your image */
+	height: 20px;
+	vertical-align: middle; /* Align the image vertically with text */
+	margin-left: 5px; /* Add spacing between the image and text */
+  }
+  
+  /* Hide the default Bootstrap dropdown arrow */
+  .dropdown-toggle::after {
+	content: none !important;
+  }
+  
+  /* Add this style rule to your CSS or SCSS file */
+.file-input {
+	position: absolute;
+	top: -9999px;
+	left: -9999px;
+  }
+   
+.header {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: flex-start;
+	background-color: $background-color_1;
+	box-shadow: 0 4px 4px rgba(182, 182, 182, 0.25);
+	//   width: 1440px;
+	padding: var(--padding-xl) var(--padding-101xl);
+	box-sizing: border-box;
+	font-size: 20px;
+	color: $color_2;
+
+}
+	}
+
